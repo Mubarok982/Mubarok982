@@ -31,7 +31,6 @@
 ###
 <h2 align="left">Play game with ME<h2/>
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mubarok982/Mubarok982/output/snake.svg" alt="Snake animation" />
 
 ###
