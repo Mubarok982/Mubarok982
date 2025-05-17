@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Next.js**, **Machine Learning**,**Data Analitics**, and **Web Developer**
-- 🧑‍🎓 i'm undergraduate **Computer Science** student in **Unimma**
+- 🧑‍🎓 i'm undergraduate **Computer Science** student 
 - 😁😁😁
 
 ##### Skills
