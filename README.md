@@ -11,9 +11,9 @@
 
 
 ##### Connect with ME
-![https://instagram.com/mubarok_619](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mubarok_619)
 
-![www.linkedin.com/in/rizqy-mubarok-296374290](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizqy-mubarok-296374290)
 
 
 ##### 📊 My Github Stats
